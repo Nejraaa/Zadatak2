@@ -1,137 +1,127 @@
-#tijelo{background-image:url(sunce.jpg);
-background-attachment: fixed;
-background-position: center;
-background-size: cover;}
 
-
-#wrapper{padding: 15px;
-width: 960px auto;
-background-color: white;
-padding-top: 1px;
-margin:70px;
-float: none;
-
-}
-#header{background-color:#C51417;
-margin-top: 10px;
-margin-left: 10px;
-height: 50px;
-margin-bottom: 10px;
-
-}
-#navbar{background-color: #333;
-margin-left: 10px;
-height: 30px;
-}
-#navbar ul{margin: 0;
-padding: 0;
-list-style:none;
-}
-#navbar ul li{float: left;
-}
-#navbar ul li a {color:#ffff;
-text-decoration:none;
-padding: 10px 12px;
-display: block;
-font-size: 16px;
-}
-#navbar ul li a:active,
-#navbar ul li a:visited{color:#ffff;
-}
-#navbar ul li a:hover{background-color: #C51417;
-}
-
-#main{width: 700px;
-    margin-left: 10px;
-   float: left;
-    color:black;
-}
-#sidebar{width:250px;
-    color:black;
-    height: auto;
-margin-right: 10px;
-float: right;
-text-align: top;
-line-height: 50px;
-margin-right: 50px;
-margin-top: 20px;}
-#footer{background-color: #3333;
-margin-bottom: 10px;}
-#h1{font-style:italic ;
-font-size: 50px;
-color:white;
-font-weight: lighter;}
-.clasa{font-size: 14px;
-color: white;
-text}
-h2{font-size:25px ;
-font-style:normal;
-font-weight:lighter;}
-img{width: 800px;
-height: 350px;
-}
-p{line-height:20px;}
-#par{line-height: 20px;}
-#h3{font-weight:lighter;}
-#para{line-height: 20px;}
-.p4{line-height: 20px;}
-#h4{background-color: #BBBB;
-padding-left: 10px;
-font-size:15px;
-font-weight:5px;
-color:white;}
-#h5{background-color: #BBBB;
-padding-left: 10px;
-font-size:15px;
-font-weight:5px;
-color:white;}
-#h6{background-color: #BBBB;
-padding-left: 10px;
-font-size:15px;
-font-weight:5px;
-color:white;}
-#footer{clear:both;
-background-color:#333;
-padding: 15px;
-height: 26px;
-}
 #slik2{float:right;
 width:250px;
 height: auto;
-margin-top: 5px;}
-#tijelo2{margin:20px;}
+margin-top: 5px;
+padding-right: 15px;}
 
-#zadatak2{margin: 15px;}
 
-#zn1{font-size: 50px;}
-.zl1{font-size: 25px;
-}
-hr{color: black;}
-#zslika1{width: auto;
+#slika1{width: auto;
 height: 500px;}
-#zp1{font-size: 29px;
-    line-height: 53px;}
-#zn2{font-size: 50px;
-font-weight: bold;
-margin-left: 0px;
-padding-left: 0;}
-#zp2{font-size: 29px;
-line-height:35px ;}
+
+
 .dugelis{font-style: normal;
 font-weight:lighter;
 font-size: 27px;}
 .span1{font-style: italic;}
-#zh4{font-size: 60px;
-font-weight: bold;}
-#zh5{font-weight: bold;
-font-size: 45px;}
-#zh6{font-weight: bold;
-font-size: 33px;}
-.zparagraf{font-size: 29px;
-line-height: 40px;}
-#university{height: 620px;
-width: auto;}
-#naslovp{font-size: 60px;
-font-weight: bold ;}
-#pupin2{height: 800px;
-width: auto;}
+
+#sidebar{padding:15px;
+float: left;
+margin-left: 150px;
+font-size: 34px;
+overflow: hidden;}
+#main{padding:15px;
+float: right;
+text-align: center;
+font-size: 20px;
+margin-right: 150px;
+line-height: 30px;
+}
+#main h1{font-style: italic;
+color:gray}
+
+#main p{font-style:oblique;}
+#main2{
+    padding:15px;
+float: right;
+text-align: center;
+font-size: 20px;
+margin-right: 115px;
+line-height: 30px;
+}
+#naslovp{font-size: 50px;
+    font-weight: bold;
+font-style: italic;}
+#main3{padding:0px;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 30px;
+    line-height: 25px;
+   
+text-align: right;
+font-size: 17px;
+text-transform: capitalize;
+
+    
+
+}
+#main3 h4 {font-size: 40px;
+font-style: italic;}
+#main3 h5{
+    font-size: 40px;
+font-style: italic;
+}
+#main3 h6{
+    font-size: 40px;
+font-style: italic;
+overflow: hidden;
+}
+
+#university{overflow: hidden;}
+#main4{
+    padding top:0px;
+    margin top:0;
+    overflow: hidden;
+    font-size: 20px;
+    
+    line-height: 25px;
+   
+    text-align: right;
+    font-size: 17px;
+    text-transform: capitalize;
+    display: inline;
+}
+#main4 p{padding-top: 0;
+margin-right:30px;
+float:right;
+text-align:right;
+display: inline;
+}
+#naslov2 {font-weight: bold;
+text-decoration: wavy;
+font-style: italic;
+font-size: 50px;
+margin-right: 30px;
+
+padding-bottom: 0%;
+color:palevioletred;
+overflow: hidden;
+margin-top: 50px;
+border-collapse: 0;}
+#naslov3{
+    margin-right: 30px;
+    font-weight: bold;
+        text-decoration: wavy;
+        font-style: italic;
+        font-size:27px; 
+        color:lightpink;
+    float:right;
+display: inline-block;}
+       
+#tabla{clear: both;;
+table-layout: 30px;
+border-style: solid;
+border-width:5px;
+border-right: lavender;
+box-sizing: 30px;
+}
+#side{
+    float: left;
+margin-left: 100px;
+margin-top: 50px;
+padding-top: 0;
+font-size:30px;
+font-weight: bold;
+display: inline;}
+#zadatak2{display: inline;}
